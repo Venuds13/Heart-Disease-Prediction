@@ -24,7 +24,7 @@ A simple web application built with **Streamlit** that uses a **Logistic Regress
 
 ## 🖥️ Web App
 
-- Built using [Streamlit](https://streamlit.io)
+- Built using [Streamlit](https://heart-disease-prediction-gcvvarmpjhn9vtnx5uhtju.streamlit.app/)
 - Responsive input form with fields including age, cholesterol, blood pressure, chest pain type, etc.
 - Real-time prediction with visual output.
 - Sidebar info and expandable model performance metrics.
